@@ -1,7 +1,4 @@
 # K3r7d
-<div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/1035981275196047401/1082383442718773318/1671189244148.jpg" width=200 />
-</div>
 
 <div id="hey" align="center">
   <h1>
@@ -41,11 +38,16 @@ Hi there! I'm K3r7d, a student at Ho Chi Minh City University of Technology. I'm
 
   
 ## :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=al3sha9&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=K3r7d&show_icons=true&theme=radical" alt="K3r7d's GitHub Stats" />
+</div>
 
+## :trophy: My Trophies:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=K3r7d&theme=onedark" alt="K3r7d's Trophies" />
+</div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al3sha9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Alishans's GitHub stats](https://github-readme-stats.vercel.app/api?username=al3sha9&show_icons=true&theme=radical))](https://github.com/al3sha9/github-readme-stats)
-
+## :bar_chart: My Contribution:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3r7d&layout=compact&theme=radical" alt="K3r7d's Top Languages" />
+</div>
