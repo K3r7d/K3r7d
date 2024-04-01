@@ -1,42 +1,10 @@
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>K3r7d</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f0f0f0;
-    }
-    #hey {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
-    #hey h1 {
-      text-align: center;
-    }
-    #hey img {
-      margin-left: 10px;
-    }
-  </style>
-</head>
-<body>
-  <div id="hey">
-    <h1>
-      Hi! I'm K3r7d
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 alt="animated gif">
-    </h1>
-  </div>
-</body>
-</html>
-
+<div id="hey" align="center">
+  <h1>
+    Hi!
+    I'm K3r7d
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
+  </h1>
+</div>
 
 <div id="badges" align="center">
   <a href="duy.phamdyrekk@hcmut.edu.vn">
