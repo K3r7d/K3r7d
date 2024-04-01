@@ -1,5 +1,3 @@
-# K3r7d
-
 <div id="hey" align="center">
   <h1>
     Hi!
@@ -12,9 +10,6 @@
   <a href="duy.phamdyrekk@hcmut.edu.vn">
     <img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge" alt="Website Badge"/>
   </a>
-  <a href="https://github.com/K3r7d">
-    <img src="https://img.shields.io/badge/-My%20Website-red?style=for-the-badge" alt="Website Badge"/>
-  </a>
 </div>
 
 
@@ -22,7 +17,9 @@
 Hi there! I'm K3r7d, a student at Ho Chi Minh City University of Technology. I'm interested in Machine Learning, Data Science, and Software Development. I'm currently learning about Machine Learning and Data Science. I'm also interested in Competitive Programming and Algorithms. I'm always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 ## :mailbox: Get in touch:
-- Email: [email](duy.phamdyrekk@hcmut.edu.vn)
+- Email: [duy.phamdyrekk@hcmut.edu.vn](duy.phamdyrekk@hcmut.edu.vn)
+- Personal Email: [baoduyphamdinh@gmail.com](baoduyphamdinh@gmail.com)
+- Phone: [+84 916 756 365](tel:+84916756365)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/keryd944/)
 
 
